@@ -1,4 +1,11 @@
-### Hi there 👋
+## Good to see you. I'm Hyeongu Kang
+
+### Contact me here
+
+[<img align="left" alt="Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://velog.io/@nine57)
+[<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/65281583/157831886-4137ba92-d445-47b5-bed5-d42cb778c1b2.png" />](https://www.rocketpunch.com/@gusrn015)
+
+
 
 <!--
 **nine57/nine57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
