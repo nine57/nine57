@@ -6,7 +6,11 @@
 
 ## Techs.
 
-  <div style="display: flex; align-items: flex-start;"> <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40"/></div>
+  <div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40"/>
+  </div>
 
   <sub> <created by <a href="https://github.com/qkrdmstlr3/techstack-generator" target="_blank">https://github.com/qkrdmstlr3/techstack-generator</a>></sub>
 
